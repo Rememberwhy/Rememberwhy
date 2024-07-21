@@ -52,5 +52,5 @@ Feel free to explore my repositories to see the projects I’ve been working on.
 ## 📫 How to reach me
 
 
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1))
+- [LinkedIn](https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1)
 - [Email](mailto:Sandrowest501@outlook.com)
