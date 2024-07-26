@@ -33,12 +33,7 @@ In 2022, I joined London Metropolitan University, where I am currently pursuing 
 - **Frameworks:** React, Next.js, Django, Flask
 - **Web Technologies:** HTML, CSS (Tailwind, Flexbox, Bootstrap)
 - **Networking:** CCNA 1, CCNA 2
-- **Tools:** Git, Docker, Jenkins
 - **Databases:** MySQL, PostgreSQL
-
-## 📈 GitHub Stats
-
-[Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 ## 🔧 Projects
