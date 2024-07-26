@@ -47,7 +47,7 @@ In 2022, I joined London Metropolitan University, where I am currently pursuing 
 - [Project 2](https://github.com/Rememberwhy/take-home-salary-calculator): Command-line based application calculating take home salary after all deductions for United Kingdom, United States, Canada and China.
 - [Project 3](https://github.com/Rememberwhy/distance-and-calories-tracker): Command-line based application calculating calories burned based on covered distance.
 - [Project 4](https://github.com/Rememberwhy/programming-university-project): GadgetShop University Programming Module Project
-- [Project 5](https://github.com/Rememberwhy/trading-bot): Authomated Trading Bot With RandomForest Model
+- [Project 5](https://github.com/Rememberwhy/trading-bot): Automated Trading Bot with Random Forest
 
 Feel free to explore my repositories to see the projects I’ve been working on. I'm always open to collaboration and new opportunities. Let me know how I can assit your company or team further. 
 
