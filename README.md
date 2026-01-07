@@ -1,122 +1,215 @@
-<!-- HERO / TOP BANNER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sandro%20Zakaidze&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Security-Aware&descAlign=50&descAlignY=55&animation=fadeIn&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sandro%20Zakaidze&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Security-Aware&descAlign=50&descAlignY=55&color=0f2027,203a43,2c5364&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="mailto:Sandrowest501@outlook.com"><img src="https://img.shields.io/badge/Email-Sandrowest501%40outlook.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1"><img src="https://img.shields.io/badge/LinkedIn-Sandro%20Zakaidze-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security--Aware-16A34A?style=for-the-badge" />
+  <a href="mailto:Sandrowest501@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Sandrowest501%40outlook.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandro%20Zakaidze-064e3b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security--Aware-22c55e?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=600&center=true&vCenter=true&width=800&lines=Building+secure+full-stack+products;Next.js+%2B+Supabase+%2B+Stripe;Auth%2C+RBAC%2C+API+Security+%26+RLS;Cybersecurity+student+%7C+Bug+bounty+methodologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Building+secure+full-stack+systems;Next.js+%2B+Supabase+%2B+Stripe;Authentication%2C+RBAC%2C+RLS+%26+API+Security;Cybersecurity+engineering+with+real-world+testing+mindset" />
 </p>
 
 ---
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Hi%20there%2C%20I%27m%20Sandro%20Zakaidze%20%F0%9F%91%8B&fontAlign=50&fontAlignY=50&color=gradient" />
+## Overview
 
-I’m a **Software Engineer (Full-Stack | Security-Aware)** building real products with modern web stacks and a security mindset — from SaaS platforms to secure authentication & API workflows.
+I am a **Software Engineer (Full-Stack | Security-Aware)** focused on building **production-grade systems** with a strong emphasis on **security, authentication, and backend integrity**.
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%8C%90%20My%20Digital%20Journey&fontAlign=12&fontAlignY=50&color=gradient" />
-
-In 2020, I began my digital journey by learning the fundamentals of web development:
-- **HTML**
-- **CSS (Tailwind, Flexbox, Bootstrap)**
-- **JavaScript**
-
-Following my interest in coding, I delved into Python through structured study, building a strong foundation in problem solving and automation.
+My work combines modern web engineering with **practical security testing**, defensive design, and real-world deployment considerations. I approach systems not only as a developer, but also with the mindset of an attacker and defender.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%93%9A%20Continued%20Learning&fontAlign=14&fontAlignY=50&color=gradient" />
+## Digital Journey
 
-As I became more familiar with coding, I explored various front-end frameworks and back-end technologies:
-- **Front-End Frameworks:** React, Next.js
-- **Back-End Frameworks:** Django, Flask
+My journey began with the fundamentals of web development and progressively evolved into building and maintaining **end-to-end systems** covering:
 
-Today, my focus is shipping production-grade apps with:
-- **Supabase (PostgreSQL, Auth, RLS)**
-- **REST APIs & integrations**
-- **Stripe payments & subscriptions**
-- **Authentication & authorization flows**
-- **Secure design (OWASP awareness + bug bounty methodology)**
+- frontend architecture
+- backend services and APIs
+- database design and access control
+- authentication, authorization, and payment flows
+- deployment, configuration, and environment security
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%8E%93%20Academic%20Pursuits&fontAlign=14&fontAlignY=50&color=gradient" />
-
-In 2022, I joined **London Metropolitan University**, where I am currently pursuing a **BSc in Computer Networking and Cybersecurity with Honours** (Expected graduation: **2025**).
-
-### Academic Achievements:
-- **First Year Completed with A+:**
-  - Python and Java Programming Languages
-  - Communications Engineering
-  - Networking with CCNA 1 and CCNA2
+Today, my focus is on building **secure full-stack applications** where security is considered from the first design decision rather than added later.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%9B%A0%EF%B8%8F%20Technologies%20%26%20Tools&fontAlign=14&fontAlignY=50&color=gradient" />
+## Continued Learning & Security Focus
 
-- **Languages:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** React, Next.js, Django, Flask
-- **Web Technologies:** HTML, CSS (Tailwind, Flexbox, Bootstrap)
-- **Databases:** PostgreSQL, MySQL
-- **Backend:** Supabase, REST APIs, Auth, RBAC, RLS
-- **Payments:** Stripe (subscriptions, checkout flows)
-- **Security:** OWASP awareness, auth testing, API security fundamentals
-- **Workflow:** Git/GitHub, Linux/macOS, CI/CD basics, secrets management
+As my engineering skills matured, I expanded deeply into **security-aware development** and offensive/defensive testing practices.
+
+Key areas of continuous development include:
+
+- secure API design and authentication flows
+- role-based access control and privilege separation
+- database-level security using PostgreSQL Row Level Security (RLS)
+- secure handling of secrets, tokens, and environment configuration
+- understanding real attack surfaces in modern web applications
+
+Alongside development, I actively practice **bug bounty methodologies**, combining reconnaissance, manual testing, and controlled experimentation to identify weaknesses in authentication, authorization, and API logic.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%94%A7%20Projects&fontAlign=10&fontAlignY=50&color=gradient" />
+## Academic Background
 
-<!-- PROJECT CARDS (TABLE LAYOUT) -->
+**BSc (Hons) Computer Networking & Cybersecurity**  
+London Metropolitan University  
+Expected graduation: 2025
+
+### Academic Progress
+- **First Year completed with high academic results**
+- **Second Year completed successfully**, with strong focus on networking, security, and systems design
+
+### Academic Focus & Research
+During my studies, I have conducted multiple academic and practical research activities related to:
+
+- Intrusion Detection and **Intrusion Prevention Systems (IDS / IPS)**
+- Network traffic analysis and attack pattern recognition
+- Security controls at network and application layers
+- Defensive strategies against unauthorized access and abuse
+
+These research activities strengthened my understanding of how real-world attacks manifest and how layered security controls mitigate them.
+
+---
+
+## Technologies & Tools
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- Java
+
+### Frontend Engineering
+- React
+- Next.js (App Router)
+- Component-driven UI architecture
+- Responsive design and client-side validation
+
+### Backend & Cloud
+- Supabase (PostgreSQL, Auth, RLS)
+- REST API design and integration
+- Secure authentication and authorization flows
+- Stripe payments and subscription systems
+- Database schema design and access control
+
+### Security & Penetration Testing
+- OWASP Top 10 awareness and mitigation
+- Authentication and authorization testing
+- API security testing and logic flaw analysis
+- Bug bounty reconnaissance and reporting workflows
+
+### Terminal & Networking Tools
+- curl for HTTP/API testing and request crafting
+- Nmap for network scanning and service enumeration
+- Linux command-line tooling and scripting
+- Experience with Ubuntu, Kali Linux, and security-focused environments
+- Familiarity with common Kali tools used for reconnaissance and testing
+
+### Workflow & Systems
+- Git and GitHub (branching, pull requests)
+- Linux and macOS development environments
+- CI/CD fundamentals
+- Secure environment variable and secrets management
+
+---
+
+## Projects
+
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 Hexamridi.tech</h3>
-      <p>Full-stack platform (Next.js + Supabase + Stripe) with secure authentication, RBAC/admin workflows, and database-level security.</p>
-      <a href="https://github.com/Rememberwhy/gadget-shop">Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>🏗️ Mayfair Interiors Website</h3>
-      <p>Construction business website redesign and build. Focused on modern UI, performance, and clean UX.</p>
-      <a href="https://github.com/Rememberwhy/mayfair-interiors-site">Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ Hyatt Tester (Pentesting Tool)</h3>
-      <p>Self-made security testing tool for experimentation and learning: recon/testing mindset and security workflows.</p>
-      <a href="https://github.com/Rememberwhy/hyatt-tester-new">Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>📌 University & Automation Projects</h3>
-      <ul>
-        <li><a href="https://github.com/Rememberwhy/python-uni-project">Student Grades Management (Uni)</a></li>
-        <li><a href="https://github.com/Rememberwhy/programming-university-project">GadgetShop Module Project</a></li>
-        <li><a href="https://github.com/Rememberwhy/take-home-salary-calculator">Take-Home Salary Calculator</a></li>
-        <li><a href="https://github.com/Rememberwhy/distance-and-calories-tracker">Distance & Calories Tracker</a></li>
-        <li><a href="https://github.com/Rememberwhy/trading-bot">Trading Bot (Random Forest)</a></li>
-        <li><a href="https://github.com/Rememberwhy/Instagram-gateway-v1?tab=readme-ov-file">Instagram Automation Bot</a></li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### Hexamridi.tech  
+Flagship full-stack platform
+
+- Next.js, TypeScript, Supabase, Stripe
+- Secure authentication and role-based access control
+- PostgreSQL schemas with Row Level Security
+- Admin dashboards and subscription workflows
+- Designed with security-first backend logic
+
+Repository:  
+https://github.com/Rememberwhy/gadget-shop
+
+</td>
+<td width="50%">
+
+### Hyatt Tester  
+Security testing tool
+
+- Self-developed penetration testing utility
+- Focused on reconnaissance and testing workflows
+- Used as a learning and experimentation platform for API and auth testing
+- Supports security research and bug bounty methodologies
+
+Repository:  
+https://github.com/Rememberwhy/hyatt-tester-new
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Mayfair Interiors Website  
+Commercial website redesign & build
+
+- Full redesign and implementation
+- Performance-focused and clean UI structure
+- Built with modern frontend tooling
+
+Repository:  
+https://github.com/Rememberwhy/mayfair-interiors-site
+
+</td>
+<td width="50%">
+
+### Additional Projects
+- Student Grades Management System (University Project)
+- Take-Home Salary Calculator (CLI)
+- Distance and Calories Tracker (CLI)
+- Automated Trading Bot (Random Forest)
+- Instagram Automation Tool
+
+</td>
+</tr>
 </table>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%93%AB%20How%20to%20reach%20me&fontAlign=14&fontAlignY=50&color=gradient" />
+## Bug Bounty & Security Research
 
-- **LinkedIn:** https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1  
-- **Email:** Sandrowest501@outlook.com
+I actively practice **bug bounty-style security research**, focusing on:
+
+- authentication bypass scenarios
+- authorization and privilege escalation issues
+- API misuse and logic flaws
+- improper access controls and token handling
+
+I am experienced in documenting findings clearly and professionally, producing structured reports that explain:
+- vulnerability impact
+- reproduction steps
+- security implications
+- mitigation recommendations
+
+This experience strengthens my ability to design systems defensively and anticipate abuse cases during development.
+
+---
+
+## Contact
+
+- LinkedIn: https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1  
+- Email: Sandrowest501@outlook.com  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0f2027,203a43,2c5364"/>
 </p>
 
