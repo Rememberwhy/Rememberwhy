@@ -1,96 +1,122 @@
-<!-- Brand Banner (SVG image) -->
+<!-- HERO / TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sandro%20Zakaidze&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Security-Aware&descAlign=50&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sandro%20Zakaidze&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Security-Aware&descAlign=50&descAlignY=55&animation=fadeIn&color=gradient" />
 </p>
 
 <p align="center">
-  <a href="mailto:Sandrowest501@outlook.com"><img src="https://img.shields.io/badge/Email-Sandrowest501%40outlook.com-informational" /></a>
-  <a href="https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1"><img src="https://img.shields.io/badge/LinkedIn-Sandro%20Zakaidze-blue" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security--Aware-success" />
+  <a href="mailto:Sandrowest501@outlook.com"><img src="https://img.shields.io/badge/Email-Sandrowest501%40outlook.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1"><img src="https://img.shields.io/badge/LinkedIn-Sandro%20Zakaidze-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Security--Aware-16A34A?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=600&center=true&vCenter=true&width=800&lines=Building+secure+full-stack+products;Next.js+%2B+Supabase+%2B+Stripe;Auth%2C+RBAC%2C+API+Security+%26+RLS;Cybersecurity+student+%7C+Bug+bounty+methodologies" />
 </p>
 
 ---
 
-# Hi there, I'm Sandro Zakaidze 👋
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Hi%20there%2C%20I%27m%20Sandro%20Zakaidze%20%F0%9F%91%8B&fontAlign=50&fontAlignY=50&color=gradient" />
 
-I’m a **Software Engineer (Full-Stack | Security-Aware)** building real products with modern web stacks and a security mindset — from **SaaS platforms** to **secure authentication & API workflows**. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+I’m a **Software Engineer (Full-Stack | Security-Aware)** building real products with modern web stacks and a security mindset — from SaaS platforms to secure authentication & API workflows.
 
-## 🌐 My Digital Journey
+---
 
-My journey started with the fundamentals of web development and evolved into shipping real-world projects end-to-end — frontend, backend, database design, and production deployment. :contentReference[oaicite:2]{index=2}
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%8C%90%20My%20Digital%20Journey&fontAlign=12&fontAlignY=50&color=gradient" />
 
-Today I focus heavily on:
-- building **secure full-stack apps**
-- designing **clean APIs and data models**
-- implementing **auth, role-based access, and payment flows** :contentReference[oaicite:3]{index=3}
+In 2020, I began my digital journey by learning the fundamentals of web development:
+- **HTML**
+- **CSS (Tailwind, Flexbox, Bootstrap)**
+- **JavaScript**
 
-## 📚 Continued Learning
+Following my interest in coding, I delved into Python through structured study, building a strong foundation in problem solving and automation.
 
-I continuously sharpen both engineering and security skills — combining modern app development with practical security testing and defensive design. :contentReference[oaicite:4]{index=4}
+---
 
-My current direction includes:
-- **Next.js / React / TypeScript** and scalable UI architecture :contentReference[oaicite:5]{index=5}
-- **Supabase (PostgreSQL, Auth, RLS)** for secure backend systems :contentReference[oaicite:6]{index=6}
-- **Security fundamentals**: OWASP awareness, auth testing, bug bounty workflows :contentReference[oaicite:7]{index=7}
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%93%9A%20Continued%20Learning&fontAlign=14&fontAlignY=50&color=gradient" />
 
-## 🎓 Academic Pursuits
+As I became more familiar with coding, I explored various front-end frameworks and back-end technologies:
+- **Front-End Frameworks:** React, Next.js
+- **Back-End Frameworks:** Django, Flask
 
-I’m currently pursuing a **BSc (Hons) in Computer Networking & Cybersecurity** at **London Metropolitan University** (expected graduation: **2025**). :contentReference[oaicite:8]{index=8}
+Today, my focus is shipping production-grade apps with:
+- **Supabase (PostgreSQL, Auth, RLS)**
+- **REST APIs & integrations**
+- **Stripe payments & subscriptions**
+- **Authentication & authorization flows**
+- **Secure design (OWASP awareness + bug bounty methodology)**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%8E%93%20Academic%20Pursuits&fontAlign=14&fontAlignY=50&color=gradient" />
+
+In 2022, I joined **London Metropolitan University**, where I am currently pursuing a **BSc in Computer Networking and Cybersecurity with Honours** (Expected graduation: **2025**).
 
 ### Academic Achievements:
-- Strong foundation in networking and cybersecurity principles through academic training and hands-on work. :contentReference[oaicite:9]{index=9}
+- **First Year Completed with A+:**
+  - Python and Java Programming Languages
+  - Communications Engineering
+  - Networking with CCNA 1 and CCNA2
 
-## 🛠️ Technologies & Tools
+---
 
-**Frontend**
-- JavaScript (ES6+), TypeScript :contentReference[oaicite:10]{index=10}
-- React, Next.js (App Router) :contentReference[oaicite:11]{index=11}
-- Component-driven UI, responsive design, validation & forms :contentReference[oaicite:12]{index=12}
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%9B%A0%EF%B8%8F%20Technologies%20%26%20Tools&fontAlign=14&fontAlignY=50&color=gradient" />
 
-**Backend & Cloud**
-- Supabase (PostgreSQL, Auth, RLS), schema design & data modeling :contentReference[oaicite:13]{index=13}
-- REST APIs & integration, authentication/authorization flows :contentReference[oaicite:14]{index=14}
-- Stripe payments & subscriptions :contentReference[oaicite:15]{index=15}
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Frameworks:** React, Next.js, Django, Flask
+- **Web Technologies:** HTML, CSS (Tailwind, Flexbox, Bootstrap)
+- **Databases:** PostgreSQL, MySQL
+- **Backend:** Supabase, REST APIs, Auth, RBAC, RLS
+- **Payments:** Stripe (subscriptions, checkout flows)
+- **Security:** OWASP awareness, auth testing, API security fundamentals
+- **Workflow:** Git/GitHub, Linux/macOS, CI/CD basics, secrets management
 
-**Security**
-- Secure design principles, OWASP Top 10 awareness :contentReference[oaicite:16]{index=16}
-- Bug bounty methodology (recon, testing, reporting) :contentReference[oaicite:17]{index=17}
-- Auth & API security fundamentals :contentReference[oaicite:18]{index=18}
+---
 
-**Tools & Workflow**
-- Git & GitHub (branching, PRs) :contentReference[oaicite:19]{index=19}
-- Linux & macOS dev environments :contentReference[oaicite:20]{index=20}
-- CI/CD fundamentals, secrets & env management :contentReference[oaicite:21]{index=21}
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%94%A7%20Projects&fontAlign=10&fontAlignY=50&color=gradient" />
 
-## 🔧 Projects
+<!-- PROJECT CARDS (TABLE LAYOUT) -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Hexamridi.tech</h3>
+      <p>Full-stack platform (Next.js + Supabase + Stripe) with secure authentication, RBAC/admin workflows, and database-level security.</p>
+      <a href="https://github.com/Rememberwhy/gadget-shop">Repo →</a>
+    </td>
+    <td width="50%">
+      <h3>🏗️ Mayfair Interiors Website</h3>
+      <p>Construction business website redesign and build. Focused on modern UI, performance, and clean UX.</p>
+      <a href="https://github.com/Rememberwhy/mayfair-interiors-site">Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Hyatt Tester (Pentesting Tool)</h3>
+      <p>Self-made security testing tool for experimentation and learning: recon/testing mindset and security workflows.</p>
+      <a href="https://github.com/Rememberwhy/hyatt-tester-new">Repo →</a>
+    </td>
+    <td width="50%">
+      <h3>📌 University & Automation Projects</h3>
+      <ul>
+        <li><a href="https://github.com/Rememberwhy/python-uni-project">Student Grades Management (Uni)</a></li>
+        <li><a href="https://github.com/Rememberwhy/programming-university-project">GadgetShop Module Project</a></li>
+        <li><a href="https://github.com/Rememberwhy/take-home-salary-calculator">Take-Home Salary Calculator</a></li>
+        <li><a href="https://github.com/Rememberwhy/distance-and-calories-tracker">Distance & Calories Tracker</a></li>
+        <li><a href="https://github.com/Rememberwhy/trading-bot">Trading Bot (Random Forest)</a></li>
+        <li><a href="https://github.com/Rememberwhy/Instagram-gateway-v1?tab=readme-ov-file">Instagram Automation Bot</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🚀 Flagship (New)
-- **Hexamridi.tech** — full-stack platform (Next.js + Supabase + Stripe + secure auth/RBAC)  
-  https://github.com/Rememberwhy/gadget-shop :contentReference[oaicite:22]{index=22} :contentReference[oaicite:23]{index=23}
+---
 
-- **Mayfair Interiors — Construction business website redesign & build**  
-  https://github.com/Rememberwhy/mayfair-interiors-site
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%F0%9F%93%AB%20How%20to%20reach%20me&fontAlign=14&fontAlignY=50&color=gradient" />
 
-- **Hyatt Tester (Pentesting tool)** — security testing / experimentation project  
-  https://github.com/Rememberwhy/hyatt-tester-new :contentReference[oaicite:24]{index=24}
+- **LinkedIn:** https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1  
+- **Email:** Sandrowest501@outlook.com
 
-### 📌 More Projects
-- Student Grades Management and Analysis (University Project)  
-  https://github.com/Rememberwhy/python-uni-project
-- Take-Home Salary Calculator (CLI)  
-  https://github.com/Rememberwhy/take-home-salary-calculator
-- Distance & Calories Tracker (CLI)  
-  https://github.com/Rememberwhy/distance-and-calories-tracker
-- GadgetShop University Programming Module Project  
-  https://github.com/Rememberwhy/programming-university-project
-- Automated Trading Bot (Random Forest)  
-  https://github.com/Rememberwhy/trading-bot
-- Automated Instagram Bot  
-  https://github.com/Rememberwhy/Instagram-gateway-v1?tab=readme-ov-file
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient" />
+</p>
 
-Feel free to explore my repositories — public projects are available on GitHub, and I can share access to selected private repos upon request. :contentReference[oaicite:25]{index=25}
-
-## 📫 How to reach me
-
-- LinkedIn: https://uk.linkedin.com/in/sandro-zakaidze-bb425a1a1
-- Email: Sandrowest501@outlook.com :contentReference[oaicite:26]{index=26}
